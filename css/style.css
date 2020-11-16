@@ -39,6 +39,7 @@ body {
 
 .head-name {
   color: var(--txt-light);
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
   font-size: 44px;

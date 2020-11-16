@@ -7,10 +7,13 @@
   --txt-middle: #757575;
   --txt-light: #ffffff;
   --txt-bleu: #2196f3;
+  /* font */
+  --font-main: "Roboto", sans-serif;
+  --font-logo: "Raleway", sans-serif;
 }
 
 body {
-  font-family: "Roboto";
+  font-family: var(--font-main);
 }
 
 .logo {

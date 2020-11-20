@@ -1,22 +1,24 @@
 :root {
-  /*baclgraund*/
+  /*baclgraund color*/
   --b-dark: #2f303a;
   --b-middle: #f5f4fa;
-  /*text*/
+  /*text color*/
   --txt-dark: #212121;
   --txt-middle: #757575;
   --txt-light: #ffffff;
   --txt-bleu: #2196f3;
+  /*fonts*/
+  --main-font: Roboto, sans-serif;
+  --secondary-font: Raleway, sans-serif;
 }
 
 body {
-  font-family: Roboto;
+  font-family: var(--main-font);
 }
 
 .logo {
-  font-family: Raleway;
-  font-style: normal;
-  font-weight: bold;
+  font-family: var(--secondary-font);
+  font-weight: 700;
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;

@@ -31,6 +31,10 @@ body {
   color: var(--txt-dark);
 }
 
+.logo-light-part {
+  color: var(--txt-light);
+}
+
 /*index page*/
 .head {
   background-color: var(--b-dark);
@@ -55,6 +59,7 @@ body {
 }
 
 /*footer*/
+
 .footer {
   background-color: var(--b-dark);
   height: 252px;

@@ -207,3 +207,27 @@ ul {
 /*=========== END about ===========*/
 
 /*portfolio page*/
+.btn-portfolio {
+  background-color: var(--b-middle);
+  color: var(--txt-dark);
+}
+
+.btn-portfolio:hover {
+  background-color: var(--b-blue);
+  color: var(--txt-light);
+}
+
+.portfolio-title {
+  color: var(--txt-dark);
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+
+.portfolio-description {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.87x;
+  letter-spacing: 0.03em;
+}

@@ -210,13 +210,6 @@ ul {
 .btn-portfolio {
   background-color: var(--b-middle);
   color: var(--txt-dark);
-  font-family: Roboto, sans-serif;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 1.87;
-  letter-spacing: 0.06em;
-  border: none;
-  border-radius: 4px;
 }
 
 .btn-portfolio:hover {
@@ -235,6 +228,6 @@ ul {
 .portfolio-description {
   font-weight: normal;
   font-size: 16px;
-  line-height: 1.87x;
+  line-height: 1.87;
   letter-spacing: 0.03em;
 }

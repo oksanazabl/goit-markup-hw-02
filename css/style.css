@@ -128,7 +128,7 @@ ul {
 }
 
 .link-contact {
-  color: var(--txt-grey);
+  color: rgba(255, 255, 255, 0.6);
 }
 
 .link-contact:hover {
@@ -223,6 +223,7 @@ ul {
 .btn-portfolio {
   background-color: var(--b-middle);
   color: var(--txt-dark);
+  font-weight: 500;
 }
 
 .btn-portfolio:hover {

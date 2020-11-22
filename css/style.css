@@ -79,6 +79,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.accent {
+  color: var(--txt-bleu);
+}
+
 .link:hover {
   color: var(--txt-bleu);
 }
